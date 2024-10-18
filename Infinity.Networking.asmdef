@@ -1,0 +1,18 @@
+{
+    "name": "Infinity.Networking",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e4aa282f92fb436aa82ee40049657670",
+        "GUID:1e90ac084be3f8d469f923da4b9f7c81",
+        "GUID:e703388cbc8f6454097ffbc00f9d94ff"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
